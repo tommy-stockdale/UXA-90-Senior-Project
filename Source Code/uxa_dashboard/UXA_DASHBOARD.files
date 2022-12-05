@@ -1,0 +1,13 @@
+CMakeFiles/uxa_dashboard.dir/link.txt
+include/uxa_dashboard/main_window.hpp
+include/uxa_dashboard/qnode.hpp
+src/main.cpp
+src/main_window.cpp
+src/qnode.cpp
+ui/main_window.ui
+CMakeLists.txt
+package.xml
+resources/images.qrc
+resources/images.qrc.depends
+include/uxa_dashboard/main_window.hpp
+include/uxa_dashboard/qnode.hpp
