@@ -1,3 +1,5 @@
 This folder contains the UXA-90 Communication source code. This code is explained in the ROS Manual.
 
 It should be noted that this code was found in the recycle bin on the UXA-90 internal's computer. We restored it to the best of our knowledge.
+
+We didn't get a chance to look at the uxa_dashboard package, but it seemed to have some issues that might need to be resolved.
